@@ -1,0 +1,22 @@
+# derleme çıktısı
+/dist
+/node_modules
+/build
+
+# loglar
+logs
+*.log
+npm-debug.log*
+
+# ortam değişkenleri
+.env
+.env.*
+
+# test / coverage
+/coverage
+
+# editör / işletim sistemi
+.idea
+.vscode/*
+.DS_Store
+Thumbs.db
